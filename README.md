@@ -22,12 +22,11 @@ ___
 ## Some other stuff I do that I wouldn't usually push into GitHub
 *(If the status symbol is a checkmark, you can click it for a download!)*
 
-| Name               | Engine / Language | Description                                                                          | Status                                                            |
-| ------------------ | ----------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| DEADLINE Prototype | ink               | A brief text-based adventure about an emergency operator, currently only in spanish. | [:ballot_box_with_check:](https://1ksteps.itch.io/deadline-alpha) |
-|                    |                   |                                                                                      |                                                                   |
+| Name               | Engine | Time     | Description                                                                          | Status                                                            |
+| ------------------ | ------ | -------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| DEADLINE Prototype | ink    | Feb 2022 | A brief text-based adventure about an emergency operator, currently only in spanish. | [:ballot_box_with_check:](https://1ksteps.itch.io/deadline-alpha) |
 ___
-## Interest / Coming soon
+## Interests / Coming soon
 - Javascript Intermedio y Avanzado
 - Python applied to some simple QOL tools for me
 - A short interactive fiction game written using ink and the inky editor.
