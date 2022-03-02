@@ -5,11 +5,11 @@ Portfolio || Blog <br>
 (got neither atm :woozy_face:)
 ___
 ## Skills
-| Skill      | Basic                   | Intermediate            | Advanced                | Mastered                | Project(s) |
-| ---------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---------- |
-| Python     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :question: |
-| Javascript | :ballot_box_with_check: | :x:                     | :x:                     | :x:                     | :question: |
-| Git        | :ballot_box_with_check: | :x:                     | :x:                     | :x:                     | :question: |
+| Skill      | Basic                   | Intermediate            | Advanced                | Mastered | Project(s) |
+| ---------- | ----------------------- | ----------------------- | ----------------------- | -------- | ---------- |
+| Python     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:      | :question: |
+| Javascript | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | :question: |
+| Git        | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | :question: |
 ___
 ## Learning
 | Status                  | Time                | Course                                     | Tutor / Establishment                  |
