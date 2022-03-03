@@ -5,11 +5,11 @@ Portfolio || Blog <br>
 (got neither atm :woozy_face:)
 ___
 ## Skills
-| Skill      | Basic                   | Intermediate            | Advanced                | Mastered | Project(s) |
-| ---------- | ----------------------- | ----------------------- | ----------------------- | -------- | ---------- |
-| Python     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:      | :question: |
-| Javascript | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | :question: |
-| Git        | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | :question: |
+| Skill      | Basic                   | Intermediate            | Advanced                | Mastered | Project(s)                                                            |
+| ---------- | ----------------------- | ----------------------- | ----------------------- | -------- | --------------------------------------------------------------------- |
+| Python     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:      | [:exclamation:](https://github.com/WalkerMillgress/Python-Sorter-App) |
+| Javascript | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | :question:                                                            |
+| Git        | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | :question:                                                            |
 ___
 ## Learning
 | Status                  | Time                | Course                                     | Tutor / Establishment                  |
@@ -20,7 +20,7 @@ ___
 | :ballot_box_with_check: | March 2022          | Learn Javascript                           | Codecademy                             |
 ___
 ## Some other stuff I do that I wouldn't usually push into GitHub
-*(If the status symbol is a checkmark, you can click it for a download!)*
+*(If the status symbol is a checkmark, you can click it for a link to that project's page!)*
 
 | Name               | Engine | Time     | Description                                                                          | Status                                                            |
 | ------------------ | ------ | -------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
