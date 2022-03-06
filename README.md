@@ -8,7 +8,7 @@ ___
 | Skill      | Basic                   | Intermediate            | Advanced                | Mastered | Project(s)                                                                        |
 | ---------- | ----------------------- | ----------------------- | ----------------------- | -------- | --------------------------------------------------------------------------------- |
 | Python     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:      | [:exclamation:](https://github.com/WalkerMillgress/Python-Sorter-App)             |
-| Javascript | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | [:exclamation:](https://github.com/WalkerMillgress/AttorneyOnline-char.ini-Maker) |
+| Javascript | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:      | [:exclamation:](https://github.com/WalkerMillgress/AttorneyOnline-char.ini-Maker) |
 | Git        | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:      | :question:                                                                        |
 ___
 ## Learning
@@ -19,6 +19,7 @@ ___
 | :ballot_box_with_check: | March 2022          | Strenghten Your LinkedIn Network and Brand | Udacity                                |
 | :ballot_box_with_check: | March 2022          | Learn Javascript                           | Codecademy                             |
 | :ballot_box_with_check: | March 2022          | Version Control with Git                   | Udacity                                |
+| :ballot_box_with_check: | March 2922          | Learn Intermediate Javascript              | Codecademy                             |
 ___
 ## Some other stuff I do that I wouldn't usually push into GitHub
 *(If the status symbol is a checkmark, you can click it for a link to that project's page!)*
