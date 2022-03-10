@@ -24,6 +24,7 @@ ___
 | :ballot_box_with_check: | March 2922          | Learn Intermediate Javascript              | Codecademy                             |
 | :ballot_box_with_check: | March 2022          | Introduction with jQuery                   | Udacity                                |
 | :ballot_box_with_check: | March 2022          | Learn SQL                                  | Codecademy                             |
+| :ballot_box_with_check: | March 2022          | Git It (Electron)                          | @jlord on Github                                       |
 ___
 ## Some other stuff I do that I wouldn't usually push into GitHub
 *(If the status symbol is a checkmark, you can click it for a link to that project's page!)*
