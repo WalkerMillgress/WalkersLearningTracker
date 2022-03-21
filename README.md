@@ -40,8 +40,8 @@ ___
 
 | Name               | Engine / Tech            | Time     | Description                                                                          | Status                                                            |
 | ------------------ | ------------------------ | -------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| DEADLINE Prototype | ink                      | Feb 2022 | A brief text-based adventure about an emergency operator, currently only in spanish. | [:ballot_box_with_check:](https://1ksteps.itch.io/deadline-alpha) |
-| AO Char.ini Maker  | HTML + CSS + JS + jQuery | Mar 2022 | A simple tool for making char.ini files for the roleplaying case simulator.          |                                                                   |
+| DEADLINE Prototype | ink                      | Feb 2022 | A brief text-based adventure about an emergency operator, currently only in spanish. | [:exclamation:](https://1ksteps.itch.io/deadline-alpha) |
+| AO Char.ini Maker  | HTML + CSS + JS + jQuery | Mar 2022 | A simple tool for making char.ini files for the roleplaying case simulator.          | [:exclamation:](https://github.com/WalkerMillgress/AttorneyOnline-char.ini-Maker)                                                                  |
 ___
 
 ## Interests / Coming soon
