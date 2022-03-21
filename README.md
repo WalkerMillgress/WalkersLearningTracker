@@ -14,9 +14,9 @@ ___
 | ---------- | ----------------------- | ----------------------- | ----------------------- | -------- | --------------------------------------------------------------------------------- |
 | Python     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:      | [:exclamation:](https://github.com/WalkerMillgress/Python-Sorter-App)             |
 | Javascript | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:      | [:exclamation:](https://github.com/WalkerMillgress/AttorneyOnline-char.ini-Maker) |
-| Git        | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:      | :question:                                                                        |
+| Git        | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:      | :x:                                                                        |
 | jQuery     | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | [:exclamation:](https://github.com/WalkerMillgress/AttorneyOnline-char.ini-Maker)                                                                        |
-| SQL        | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:      | :question:                                                                        |
+| SQL        | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:      | :x:                                                                        |
 | HTML       | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | [:exclamation:](https://github.com/WalkerMillgress/AttorneyOnline-char.ini-Maker)                                                                        |
 | CSS        | :ballot_box_with_check: | :x:                     | :x:                     | :x:      | [:exclamation:](https://github.com/WalkerMillgress/AttorneyOnline-char.ini-Maker)                                                                                  |
 ___
